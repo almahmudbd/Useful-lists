@@ -2,7 +2,7 @@ name: Sync Gist Files
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর চলবে
+    - cron: '0 */1 * * *' # Runs every hour.
   workflow_dispatch:
 
 jobs:
@@ -33,3 +33,4 @@ jobs:
       uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main  # Push to main branch instead of master
