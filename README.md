@@ -22,7 +22,7 @@ Click on any file below to view directly:
 ---
 
 ## 🔄 Auto Sync Details
-
+[![Sync Gist Files](https://github.com/almahmudbd/Useful-lists/actions/workflows/main.yml/badge.svg)](https://github.com/almahmudbd/Useful-lists/actions/workflows/main.yml)
 This repository auto-syncs several personal Gist files every 6 hours using GitHub Actions. 
 The sync is handled using cURL to fetch raw Gist files and then commit changes only if there are updates.  
 You can check the workflow inside `.github/workflows/sync-gist.yml`.
