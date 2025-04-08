@@ -11,7 +11,7 @@ Click on any file below to view directly:
   A list of useful scripts and CMS-related links.
 
 - 📁 [server-scripts-list.md](https://github.com/almahmudbd/Useful-lists/blob/main/server-scripts-list.md)  
-  Handy server-side scripts and tools collection.
+  Handy server-managing scripts and tools collection.
 
 - 🧩 [browser-extension-list.md](https://github.com/almahmudbd/Useful-lists/blob/main/browser-extension-list.md)  
   Favorite browser extensions and productivity tools.
