@@ -1,0 +1,33 @@
+name: Sync Gist Files
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর চলবে
+  workflow_dispatch:
+
+jobs:
+  sync-gists:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Download Gist Files
+      run: |
+        curl -sL https://gist.github.com/almahmudbd/6fcaaca6ade51447497ca03a57aeeda5/raw/useful-script-cms-links.md -o useful-script-cms-links.md
+        curl -sL https://gist.github.com/almahmudbd/c2752849f11bfbef4e123aafe2cb6103/raw/server-scripts-list.md -o server-scripts-list.md
+        curl -sL https://gist.github.com/almahmudbd/a249fc9cda26f300a7d453bae7aa9a2d/raw/browser-extension-list.md -o browser-extension-list.md
+        curl -sL https://gist.github.com/almahmudbd/8af44a742b6a90d75efe8be826d5bba0/raw/browser-userscript-list.md -o browser-userscript-list.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'almahmudbd'
+        git config --global user.email 'almahmudbd@users.noreply.github.com'
+        git add .
+        git commit -m "Auto-sync from Gist" || echo "No changes to commit"
+
+    - name: Push to GitHub
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
