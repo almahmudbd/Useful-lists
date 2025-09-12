@@ -31,8 +31,9 @@
 27. [Show Password onMouseOver](https://greasyfork.org/en/scripts/32-show-password-onmouseover)  
 28. [Telegram Media Downloader Script](https://greasyfork.org/en/scripts/446342-telegram-media-downloader)
 29. [torrentbd.net All Userscripts](https://greasyfork.org/en/scripts/by-site/torrentbd.net)
-30. [Universal Dark mode](https://gist.github.com/cjbayliss/258b409395702efaba3a0a9794c6cea0)
-31. [YouTube Shorts Blocker](https://gist.github.com/Anthonyg5005/858b7bebe588dc7012bded18405cd7d9)  
+30. [TeamOS Signature Hider](https://greasyfork.org/en/scripts/526299-teamos-signature-hider)
+31. [Universal Dark mode](https://gist.github.com/cjbayliss/258b409395702efaba3a0a9794c6cea0)
+32. [YouTube Shorts Blocker](https://gist.github.com/Anthonyg5005/858b7bebe588dc7012bded18405cd7d9)  
 
 ..
 -------
