@@ -2,7 +2,6 @@
 ------
 
 ## file server
-
 1. TrueNAS - for files localhost- https://www.truenas.com/
 2. Open Media Vault - https://www.openmediavault.org/
 3. Kiwix - offline website - https://kiwix.org/en/applications/
@@ -24,4 +23,8 @@
 ## networking tools
 1. ngrok - https://ngrok.com/
 2. similar - https://pinggy.io/
-3. dynu dns - https://www.dynu.com/en-US/ControlPanel/DDNS
+3. similar - https://www.twingate.com/
+
+## dns tools
+1. dynu dns - https://www.dynu.com/en-US/ControlPanel/DDNS
+2. clou dns https://www.cloudns.net/
