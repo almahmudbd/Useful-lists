@@ -43,14 +43,15 @@
 39.	**[Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)**
 40.	**[Simple Image Rotator](https://chrome.google.com/webstore/detail/simple-image-rotator/celbdinhikbidipcbkmphghkoibafbik)**	
 41.	**[SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)**
-42.	[**Tampermonkey**](http://tampermonkey.net/)
-43.	**[Tunable Image Block](https://chrome.google.com/webstore/detail/tunable-image-block/agpjllgcceliiblmebkbiccaaldfedbc)**
-44.	**[uBlock Origin](https://github.com/gorhill/uBlock?tab=readme-ov-file#ublock-origin-ubo)** -	
-45.	**[uBlock O. Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)** - 
-46.	**[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/iojaoainolpgkpojokmeclhidjolocci)**	
-47.	**[View Google Image button](https://github.com/fanfare/googleimagesrestored)**	
-48.	**[Voice Typing](https://chrome.google.com/webstore/detail/voice-typing/hmpihaioaacpehkghnkmnmgmihalkmdf)**	
-49.	**[Voice-in (voice typing)](https://dictanote.co/voicein/install/?r=725951)** - 
+42.	**[Slop-Evader (ext. for avoiding AI)](https://tegabrain.com/Slop-Evader)**
+43.	[**Tampermonkey**](http://tampermonkey.net/)
+44.	**[Tunable Image Block](https://chrome.google.com/webstore/detail/tunable-image-block/agpjllgcceliiblmebkbiccaaldfedbc)**
+45.	**[uBlock Origin](https://github.com/gorhill/uBlock?tab=readme-ov-file#ublock-origin-ubo)** -	
+46.	**[uBlock O. Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)** - 
+47.	**[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/iojaoainolpgkpojokmeclhidjolocci)**	
+48.	**[View Google Image button](https://github.com/fanfare/googleimagesrestored)**	
+49.	**[Voice Typing](https://chrome.google.com/webstore/detail/voice-typing/hmpihaioaacpehkghnkmnmgmihalkmdf)**	
+50.	**[Voice-in (voice typing)](https://dictanote.co/voicein/install/?r=725951)** - 
 
 .
 
