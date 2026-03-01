@@ -19,6 +19,17 @@ Click on any file below to view directly:
 - 🧪 [browser-userscript-list.md](https://github.com/almahmudbd/Useful-lists/blob/main/browser-userscript-list.md)  
   Curated list of user scripts for browsers (Greasemonkey/Tampermonkey).
 
+
+## 📜 Automated Generated Bookmarks
+
+Click on any file below to view directly:
+
+- [general-collection.md](https://github.com/almahmudbd/Useful-lists/blob/main/general-collection.md)
+- [browser-and-isp.md](https://github.com/almahmudbd/Useful-lists/blob/main/browser-and-isp.md)
+- [download-portal.md](https://github.com/almahmudbd/Useful-lists/blob/main/download-portal.md)
+- [graphic-and-media.md](https://github.com/almahmudbd/Useful-lists/blob/main/graphic-and-media.md)
+- [tech-and-pros.md](https://github.com/almahmudbd/Useful-lists/blob/main/tech-and-pros.md)
+
 ---
 
 ## 🔄 Auto Sync Details
