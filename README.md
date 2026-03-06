@@ -16,7 +16,7 @@ These files are automatically synced from personal Gists every hour using GitHub
 
 ## 📑 Generated Bookmark Collections
 
-These markdown files are automatically generated from the latest Netscape-style HTML bookmark export (`booky_backup*.html`) stored in the repository.
+These markdown files are automatically generated from the HTML bookmark export stored in the folder.
 
 - 🏠 [general-collection.md](general-collection.md) — General tools, blogs, and collection.
 - 💻 [tech-and-pros.md](tech-and-pros.md) — Technical resources, forums, and developer tools.
@@ -42,11 +42,11 @@ To manually rebuild the bookmark collections from the latest HTML export:
 python .github/workflows/process_bookmarks.py
 ```
 
-### Script Features
-- **Smart Detection**: Automatically finds the newest `booky_backup*.html` file.
-- **AI Collection**: Intelligently groups AI-related folders into a dedicated file.
-- **Exclusion Filters**: Automatically skips `Download Portal`, `imp:Bookmarks`, and links containing "red" or "risk" keywords.
-- **Regex Logic**: Uses whole-word matching to ensure high accuracy in categorization.
+**pyScript Features**
+- Smart Detection: Automatically finds the newest Netscape-style HTML bookmark export (`booky_backup*.html`) file.
+- Exclusion Filters: Automatically skips `Download Portal`, `imp:Bookmarks`, and links containing "red" or "risk" keywords.
+- AI Collection: Intelligently groups AI-related folders into a dedicated file.
+- Regex Logic: Uses whole-word matching to ensure high accuracy in categorization.
 
 ---
 *Maintained by [almahmudbd](https://github.com/almahmudbd)*
