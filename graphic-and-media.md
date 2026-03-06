@@ -124,6 +124,7 @@
 1. [starryai - AI Art Maker](https://starryai.com/)
 1. [Recraft - Ai whiteboard](https://www.recraft.ai/)
 1. [PicLumen - Free Image Generator](https://www.piclumen.com/)
+1. [PerC. free Image Generator](https://perchance.org/ai-text-to-image-generator)
 ## Free Stock Images
 1. [Freepik](https://freepik.com/)
 1. [Stock Snap.io](https://stocksnap.io/)
@@ -154,17 +155,6 @@
 1. [Islamic Ppt Backgrounds - pintek](https://pintek.vercel.app/post/background-islami-ppt/)
 1. [Prezentr - PowerPoint Templates](https://prezentr.com/)
 1. [PoweredTemplate](https://poweredtemplate.com/)
-## Other File Tools
-1. [compress2go - Online File Compressor](https://www.compress2go.com/)
-1. [Grooveshark - Music Streaming](https://groovesharks.org/)
-1. [Microsoft Store Downloader - rg-adguard](https://store.rg-adguard.net/)
-1. [FileFormat.Info](https://www.fileformat.info/index.htm)
-1. [DownSub - Download subtitles](https://downsub.com/)
-1. [ttsFree - Text to Speech](https://ttsfree.com/text-to-speech/bangladesh)
-1. [Jotti's malware scan](https://virusscan.jotti.org/en/)
-1. [VirusTotal web](https://www.virustotal.com/gui/)
-1. [@VirusTotal AV bot - TG](https://t.me/VirusTotal_AV_bot)
-1. [File Tools - TinyWow](https://tinywow.com)
 ## Video and Music Template
 1. [Mixkit - free assets](https://mixkit.co/)
 1. [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
@@ -182,6 +172,12 @@
 1. [Murf Ai - natural voice](https://murf.ai)
 1. [Fish.audio - voice cloner](https://fish.audio/app/)
 1. [Krea](https://www.krea.ai/app)
+## Ai Document tools
+1. [Napkin AI - infographic gen](https://www.napkin.ai/)
+1. [Ai arter.com - img and doc](https://aiarter.com/)
+1. [Graphy - Make Graphs](https://graphy.app/)
+1. [Granola — AI meeting notes](https://www.granola.ai/)
+1. [AI Presentation Maker](https://gamma.app/)
 ## Animation and Gif
 1. [animatron - Animation Maker](https://www.animatron.com/studio)
 1. [Animaker - Make Animated Videos](https://www.animaker.com/)
@@ -189,11 +185,14 @@
 1. [GIFRUN - GIF Maker](https://gifrun.com/)
 1. [ezgif.com - GIF editor](https://ezgif.com/)
 1. [Online GIF Tools .com](https://onlinegiftools.com/#tools)
-## Ai Document tools
-1. [Napkin AI - infographic gen](https://www.napkin.ai/)
-1. [Ai arter.com - img and doc](https://aiarter.com/)
-1. [Graphy - Make Graphs](https://graphy.app/)
-1. [Granola — AI meeting notes](https://www.granola.ai/)
-1. [AI Presentation Maker](https://gamma.app/)
-## Ai Image Tools
-1. [PerC. free Image Generator](https://perchance.org/ai-text-to-image-generator)
+## Other File Tools
+1. [compress2go - Online File Compressor](https://www.compress2go.com/)
+1. [Grooveshark - Music Streaming](https://groovesharks.org/)
+1. [Microsoft Store Downloader - rg-adguard](https://store.rg-adguard.net/)
+1. [FileFormat.Info](https://www.fileformat.info/index.htm)
+1. [DownSub - Download subtitles](https://downsub.com/)
+1. [ttsFree - Text to Speech](https://ttsfree.com/text-to-speech/bangladesh)
+1. [Jotti's malware scan](https://virusscan.jotti.org/en/)
+1. [VirusTotal web](https://www.virustotal.com/gui/)
+1. [@VirusTotal AV bot - TG](https://t.me/VirusTotal_AV_bot)
+1. [File Tools - TinyWow](https://tinywow.com)
