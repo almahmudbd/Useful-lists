@@ -21,3 +21,11 @@ lerna-debug.log*
 # Working files
 booky*.html
 download-*.md
+.agent-mem/.cache_idx
+.agent-mem/context.dat
+.agent/skills/auto/flutter/SKILL.md
+.agent/skills/auto/html/SKILL.md
+/.agent/skills/auto
+.mcp.json
+.mcp.json.bak
+.brainsync/shared-context.json

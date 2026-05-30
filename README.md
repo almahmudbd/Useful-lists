@@ -22,11 +22,20 @@ These markdown files are automatically generated from the HTML bookmark export s
 - 💻 [tech-and-pros.md](tech-and-pros.md) — Technical resources, forums, and developer tools.
 - 🌍 [browser-and-servers.md](browser-and-servers.md) — Browser-related tools, VPNs, and server/hosting lists.
 - 🎨 [graphic-and-media.md](graphic-and-media.md) — Design assets, stock media, and editor tools.
-- 🤖 [ai-collection.md](ai-collection.md) — *Intelligent Aggregation* of all AI-related tools and generative platforms.
+- 🤖 [ai-collection.md](ai-collection.md) — Some nice AI-related tools and generative platforms.
+
+
+---
+## 📑 Collected Lists
+
+- 🧠 [**New-Ai-Tools.md**](New-Ai-Tools\README.md) — A Huge collection of Ai Tools that found on internet.
+
+-
+
 
 ---
 
-## ⚙️ Automation & Scripts
+### ⚙️ Automation & Scripts (notes for automation)
 
 The repository uses GitHub Actions to maintain up-to-date data.
 

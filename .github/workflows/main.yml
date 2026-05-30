@@ -2,7 +2,7 @@ name: Sync Gist Files
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Runs every hour.
+    - cron: '0 */12 * * *' # Runs every 12 hours.
   workflow_dispatch:
 
 jobs:
