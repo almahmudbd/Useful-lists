@@ -28,7 +28,7 @@ These markdown files are automatically generated from the HTML bookmark export s
 ---
 ## 📑 Collected Lists
 
-- 🧠 [**New-Ai-Tools.md**](New-Ai-Tools\README.md) — A Huge collection of Ai Tools that found on internet.
+- 🧠 [**New-Ai-Tools.md**](New-Ai-Tools/README.md) — A Huge collection of Ai Tools that found on internet.
 
 -
 

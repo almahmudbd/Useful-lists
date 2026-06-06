@@ -1,5 +1,5 @@
 # Project Notes — Useful-lists
-> 19 notes | Updated: 5/30/2026
+> 26 notes | Updated: 6/6/2026
 
 ## Safety Rules
 
@@ -32,7 +32,7 @@ For observation details: `.agent-mem/observations/`
 *Auto-generated*
 
 # Project Memory — Useful-lists
-> 19 notes | Score threshold: >40
+> 26 notes | Score threshold: >40
 
 ## Safety — Never Run Destructive Commands
 
@@ -49,16 +49,14 @@ For observation details: `.agent-mem/observations/`
 
 **Stack:** Unknown stack
 
-## 📝 NOTE: 1 uncommitted file(s) in working tree.\n\n## Project Standards
+## 📝 NOTE: 1 uncommitted file(s) in working tree.\n\n## Active: `New-Ai-Tools`
+
+- **🟢 Edited New-Ai-Tools/README.md (46 changes, 2min)**
+- **🟢 Edited New-Ai-Tools/README.md (189 changes, 4min)**
+
+## Project Standards
 
 - [CLAUDE.md] NEVER use TailwindCSS. Only use vanilla CSS.
-- convention in .gitignore
-- [.windsurfrules] NEVER use TailwindCSS. Only use vanilla CSS.
-- Version your API from day 1 (/api/v1/)
-- Use consistent response format across all endpoints
-- Implement soft delete for important data — don't hard delete without confirmation
-- Handle timezone correctly — store UTC, display in user's timezone
-- Make layouts responsive from the start — mobile-first approach
 
 ## Verified Best Practices
 

@@ -1,11 +1,13 @@
 > **BrainSync Context Pumper** 🧠
-> Dynamically loaded for active file: `README.md` (Domain: **Generic Logic**)
+> Dynamically loaded for active file: `.brainsync\rules\brainsync_auto.md` (Domain: **Generic Logic**)
 
 ### 📐 Generic Logic Conventions & Fixes
-- **[what-changed] 🟢 Edited README.md (162 changes, 7min)**: Active editing session on README.md.
-162 content changes over 7 minutes.
+- **[what-changed] 🟢 Edited README.md (97 changes, 4min)**: Active editing session on README.md.
+97 content changes over 4 minutes.
 - **[what-changed] 🟢 Edited New-Ai-Tools/README.md (46 changes, 2min)**: Active editing session on New-Ai-Tools/README.md.
 46 content changes over 2 minutes.
+- **[what-changed] 🟢 Edited README.md (162 changes, 7min)**: Active editing session on README.md.
+162 content changes over 7 minutes.
 - **[what-changed] 🟢 Edited New-Ai-Tools/README.md (189 changes, 4min)**: Active editing session on New-Ai-Tools/README.md.
 189 content changes over 4 minutes.
 - **[decision] decision in README.md**: - # Ai Tools - Markdown Collection
