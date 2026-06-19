@@ -12,11 +12,11 @@ These files are automatically synced from personal Gists every hour using GitHub
 - 🔗 [useful-script-cms-links.md](useful-script-cms-links.md) — A list of useful scripts and CMS-related links.
 - 📁 [server-scripts-list.md](server-scripts-list.md) — Handy server-managing scripts and tools collection.
 - 🧩 [browser-extension-list.md](browser-extension-list.md) — Favorite browser extensions and productivity tools.
-- 🧪 [browser-userscript-list.md](browser-userscript-list.md) — Curated collection of user scripts for browsers.
+- 🧪 [browser-userscript-list.md](browser-userscript-list.md) — userscripts collection for browser.
 
-## 📑 Generated Bookmark Collections
+## 📑 Curated Bookmark Collections
 
-These markdown files are automatically generated from the HTML bookmark export stored in the folder.
+These markdown files are automatically generated from the HTML bookmark export stored in the various folder.
 
 - 🏠 [general-collection.md](general-collection.md) — General tools, blogs, and collection.
 - 💻 [tech-and-pros.md](tech-and-pros.md) — Technical resources, forums, and developer tools.
@@ -29,6 +29,7 @@ These markdown files are automatically generated from the HTML bookmark export s
 ## 📑 Collected Lists
 
 - 🧠 [**New-Ai-Tools.md**](New-Ai-Tools/README.md) — A Huge collection of Ai Tools that found on internet.
+- 🖇️ [**free-ai-api.md**](https://gist.github.com/almahmudbd/2f35cc768eae59117e8a0ce59beccca3) - Free Ai key and credit for programmers.
 
 -
 
