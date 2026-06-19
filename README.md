@@ -14,6 +14,7 @@ These files are automatically synced from personal Gists every hour using GitHub
 - 🧩 [browser-extension-list.md](browser-extension-list.md) — Favorite browser extensions and productivity tools.
 - 🧪 [browser-userscript-list.md](browser-userscript-list.md) — userscripts collection for browser.
 
+
 ## 📑 Curated Bookmark Collections
 
 These markdown files are automatically generated from the HTML bookmark export stored in the various folder.
@@ -25,12 +26,10 @@ These markdown files are automatically generated from the HTML bookmark export s
 - 🤖 [ai-collection.md](ai-collection.md) — Some nice AI-related tools and generative platforms.
 
 
----
 ## 📑 Collected Lists
 
 - 🧠 [**New-Ai-Tools.md**](New-Ai-Tools/README.md) — A Huge collection of Ai Tools that found on internet.
 - 🖇️ [**free-ai-api.md**](https://gist.github.com/almahmudbd/2f35cc768eae59117e8a0ce59beccca3) - Free Ai key and credit for programmers.
-
 -
 
 
@@ -44,7 +43,7 @@ The repository uses GitHub Actions to maintain up-to-date data.
 [![Sync Gist Files](https://github.com/almahmudbd/Useful-lists/actions/workflows/main.yml/badge.svg)](https://github.com/almahmudbd/Useful-lists/actions/workflows/main.yml)
 
 - **Sync Logic**: Every hour, the workflow fetches raw Gist data using `cURL` and commits changes if updates are found.
-- **Bookmark Processing**: The collections are generated using a custom Python script.
+- **Bookmark Processing**: The 2nd collections are exported and refined using a few Python script.
 
 ### Local Rebuild
 To manually rebuild the bookmark collections from the latest HTML export:
