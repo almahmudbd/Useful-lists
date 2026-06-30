@@ -56,3 +56,4 @@
 54. [DeepSwapper AI](https://www.deepswapper.com/) — High Quality Face Swaps In Just a Click!
 55. [Modyfi](https://www.modyfi.com/) — A tool for image editing.
 56. [editghost](https://editghost.xyz/) — A tool to remove objects and watermarks from images.
+57. [igly.ai](https://igly.ai) — AI image editor for background removal, inpainting, generative fill, and upscaling.
